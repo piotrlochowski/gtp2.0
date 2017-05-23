@@ -168,6 +168,26 @@ footer {
   background-size: cover;
 }
 
+footer ul {
+  list-style-type: none;
+}
+
+.mdl-mini-footer ul {
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+footer.mdl-mini-footer .social-btn {
+  display: block;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 48px;
+  height: 48px;
+  cursor: pointer;
+}
+
 .not-active {
   pointer-events: none;
   cursor: default;
@@ -176,6 +196,8 @@ footer {
 
 .spec {
   border: 1px solid rgba(0,0,0,.12);
-  border: 1px solid rgba(0,0,0,.12);
 }
 
+.social-btn__facebook {
+  background-image: url(moje/facebook-box.png);
+}
