@@ -1,6 +1,6 @@
 .portfolio-header {
   position: relative;
-background-image: url(moje/asfaltowa-tekstura.jpg);
+background-image: url(../moje/asfaltowa-tekstura.jpg);
 }
 
 .portfolio-header .mdl-layout__header-row {
@@ -164,7 +164,7 @@ img.article-image {
 }
 
 footer {
-  background-image: url(moje/footer-background.png);
+  background-image: url(../moje/footer-background.png);
   background-size: cover;
 }
 
@@ -199,5 +199,5 @@ footer.mdl-mini-footer .social-btn {
 }
 
 .social-btn__facebook {
-  background-image: url(moje/facebook-box.png);
+  background-image: url(../moje/facebook-box.png);
 }
