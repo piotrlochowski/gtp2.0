@@ -21,7 +21,7 @@ background-image: url(../moje/asfaltowa-tekstura.jpg);
 }
 
 .portfolio-logo-row {
-  min-height: 200px;
+  min-height: 130px;
 }
 
 .is-compact .portfolio-logo-row {
@@ -29,16 +29,17 @@ background-image: url(../moje/asfaltowa-tekstura.jpg);
 }
 
 .portfolio-logo {
-  background: url(images/logo.png) 50% no-repeat;
+  background: url(gtp-2.2.png) 50% no-repeat;
   background-size: cover;
-  height: 150px;
-  width: 150px;
+  height: 130px;
+  width: 360px;
   margin: auto auto 10px;
 }
 
 .is-compact .portfolio-logo {
-  height: 50px;
-  width: 50px;
+  background: url(gtp-2.2.1.png) 50% no-repeat;
+  height: 74px;
+  width: 580px;
   margin-top: 7px;
 }
 
