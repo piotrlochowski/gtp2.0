@@ -88,15 +88,15 @@ background-image: url(../moje/asfaltowa-tekstura.jpg);
 }
 
 .portfolio-blog-card-full-bg {
-  background: url(../moje/header-bg.jpg) center / cover;
+  background: url(../moje/quality.jpg) center / cover;
 }
 
 .portfolio-blog-card-event-bg {
-  background: url(images/example-blog05.jpg) center / cover;
+  background: url(../moje/evening.jpg) center / cover;
 }
 
 .portfolio-blog-card-strip-bg {
-  background: url(images/example-blog06.jpg) center / cover;
+  background: url(../moje/adjustment.jpg) center / cover;
 }
 
 .portfolio-blog-card-compact .mdl-card__title {
