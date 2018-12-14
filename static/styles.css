@@ -1,6 +1,6 @@
 .portfolio-header {
   position: relative;
-background-image: url(../moje/asfaltowa-tekstura.jpg);
+background-image: url(../static/photos/asfaltowa-tekstura.jpg);
 }
 
 .portfolio-header .mdl-layout__header-row {
@@ -29,7 +29,7 @@ background-image: url(../moje/asfaltowa-tekstura.jpg);
 }
 
 .portfolio-logo {
-  background: url(gtp-2.0.png) 50% no-repeat;
+  background: url(headers/gtp-2.0.png) 50% no-repeat;
   background-size: cover;
   height: 130px;
   width: 360px;
@@ -37,7 +37,7 @@ background-image: url(../moje/asfaltowa-tekstura.jpg);
 }
 
 .is-compact .portfolio-logo {
-  background: url(gtp-2.1.png) 50% no-repeat;
+  background: url(headers/gtp-2.1.png) 50% no-repeat;
   height: 74px;
   width: 580px;
   margin-top: 7px;
@@ -88,15 +88,15 @@ background-image: url(../moje/asfaltowa-tekstura.jpg);
 }
 
 .portfolio-blog-card-full-bg {
-  background: url(../moje/quality.jpg) center / cover;
+  background: url(../static/photos/quality.jpg) center / cover;
 }
 
 .portfolio-blog-card-event-bg {
-  background: url(../moje/evening.jpg) center / cover;
+  background: url(../static/photos/evening.jpg) center / cover;
 }
 
 .portfolio-blog-card-strip-bg {
-  background: url(../moje/adjustment.jpg) center / cover;
+  background: url(../static/photos/adjustment.jpg) center / cover;
 }
 
 .portfolio-blog-card-compact .mdl-card__title {
@@ -165,7 +165,7 @@ img.article-image {
 }
 
 footer {
-  background-image: url(../moje/footer-background.png);
+  background-image: url(../static/photos/footer-background.png);
   background-size: cover;
 }
 
@@ -200,5 +200,5 @@ footer.mdl-mini-footer .social-btn {
 }
 
 .social-btn__facebook {
-  background-image: url(../moje/facebook-box.png);
+  background-image: url(../static/photos/facebook-box.png);
 }
